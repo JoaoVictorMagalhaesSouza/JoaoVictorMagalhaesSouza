@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovictormagalhaessouza" alt="joaovictormagalhaessouza" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes** 
+  - Completed (05/09/2022)!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
