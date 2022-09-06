@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Kubernetes** 
   - Completed (05/09/2022)!
   
-- 🌱 I’m currently learning **How to improve speed up for Python codes in Data Science aplications** 
+- 🌱 I’m currently learning **How to Improve Speed Up for Python Codes in Data Science Aplications** 
 
 
 <h3 align="left">Connect with me:</h3>
