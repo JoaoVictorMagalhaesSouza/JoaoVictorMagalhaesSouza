@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joão-victor-magalhães" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-victor-magalhães" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5531995016255" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="joão-victor-magalhães" height="30" width="40" /></a>
 <a href="https://instagram.com/joaovictormagalhaessouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaovictormagalhaessouza" height="30" width="40" /></a>
 </p>
 
