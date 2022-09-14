@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **How to Improve Speed Up for Python Codes in Data Science Aplications** 
 
-- 🌱 I’m currently learning **How to Automatize ML Pipeline in VertexAI in Google Cloud Platform** 
+- 🌱 I’m currently learning **MLOps: How to Automatize ML Pipeline in VertexAI in Google Cloud Platform** 
 
 
 <h3 align="left">Connect with me:</h3>
