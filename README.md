@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Kubernetes** 
   - Completed (05/09/2022)!
   
-- 🌱 I’m currently learning **How to Improve Speed Up for Python Codes in Data Science Aplications** 
+- 🌱 I’m currently learning **Web Scraping with Python** 
 
 - 🌱 I’m currently learning **MLOps: How to Automatize ML Pipeline in VertexAI in Google Cloud Platform** 
 
