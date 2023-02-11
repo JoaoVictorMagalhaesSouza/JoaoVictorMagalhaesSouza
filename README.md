@@ -26,7 +26,7 @@
   
 - Cloud Computing: 
   
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://bizgiveworld.com/wp-content/uploads/2020/04/aws-logo.png" alt="aws" width="40" height="40"/> </a>
 
 - Languages:
 
